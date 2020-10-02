@@ -1,2 +1,2 @@
 # frontend
-front end code 
+front end code for House price prediction Project
